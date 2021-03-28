@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @eXamqle
+- 👀 I’m interested in Javascript, Typescript and C.
+- 🌱 I’m currently learning Angular
